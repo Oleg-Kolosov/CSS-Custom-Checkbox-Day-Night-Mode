@@ -1,3 +1,3 @@
-# CSS-Custom-Checkbox-Day-Night-Mode
+### Custom checkbox day night mode
  
-http://oleg-kolosov.github.io/CSS-Custom-Checkbox-Day-Night-Mode/
+[watch](http://oleg-kolosov.github.io/CSS-Custom-Checkbox-Day-Night-Mode/)
